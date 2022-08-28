@@ -11,7 +11,7 @@
 
 ## 𝗦𝗨𝗢𝗥𝗖𝗘 𝒆𝒍 𝒎𝒂𝒇𝒊𝒂 
 <p align="center">
-  <img src="https://telegra.ph/file/390d078bddeb22f38c69b.jpg">
+  <img src="htt[ps://telegra.ph/file/390d078bddeb22f38c69b.jpg">](https://t
 </p>
 
 ## ✨ المميزات
