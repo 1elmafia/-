@@ -48,32 +48,33 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
+                 س  
+    آخر    InlineKeyboardButton("الــمــافـيـاا🇪🇬!", url=f"https://t.me/AMIRMAFIA11"),
            ],
             [ 
                 InlineKeyboardButton("نــــــــادر", url=f"https://t.me/Ng_102"),
             ],
             [
                 InlineKeyboardButton(
-                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔᷂᷂🦖", url=f"https://t.me/o_lU_o1"
+                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝔼𝕃 𝕄𝔸𝔽𝕀𝔸🦖", url=f"https://t.me/MAFIMUOZIC"
                 ),
             ],
             [
-                InlineKeyboardButton("🐥اضفني الى مجموعتك🐥", url=f"https://t.me/K61TBot?startgroup=true"),
+                InlineKeyboardButton("🐥اضفني الى مجموعتك🐥", url=f"https://t.me/elmafia222"),
             ]
          ]
      )
   )
 
-@Client.on_message(command(["المطور", "/godzela", "مطور" ,"مطور البوت"]) & filters.group & ~filters.edited)
+@AMIRMAFIA11_message(command(["المطور", "/godzela", "مطور" ,"مطور البوت"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
+        photo=f"https://telegra.ph/file/e270ca38db21a863a70db.jpg",
         caption=f""" الاول: هو مطور السورس🐥 \n الثاني: مطور البوت🐥 \n√""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
+                InlineKeyboardButton("المافياا🇪🇬!", url=f"https://t.me/MAFIMUOZIC"),
             ],
             [
                 InlineKeyboardButton(
@@ -81,7 +82,7 @@ async def help(client: Client, message: Message):
                 ),
             ],
             [
-                InlineKeyboardButton("🐥ضيـف البـوت لمجمـوعتـك🐥", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                InlineKeyboardButton("🐥ضيـف البـوت لمجمـوعتـك🐥", url=f"https://t.me/elmafia222"),
             ]
          ]
      )
@@ -92,9 +93,8 @@ async def help(client: Client, message: Message):
 async def new_chat(c: Client, m: Message):
     chat_id = m.chat.id
     if await is_served_chat(chat_id):
-        pass
-    else:
-        await add_served_chat(chat_id)
+        pas :
+        await add_served_chat(cht_i
     ass_uname = (await user.get_me()).username
     bot_id = (await c.get_me()).id
     for member in m.new_chat_members:
