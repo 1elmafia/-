@@ -10,8 +10,8 @@
 [![جلسة بيوجرام]<a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=AFYONA"></a>
 
 ## 𝗦𝗨𝗢𝗥𝗖𝗘 𝒆𝒍 𝒎𝒂𝒇𝒊𝒂 
-<p align="center">
-  <img src="htt[ps://telegra.ph/file/390d078bddeb22f38c69b.jpg">](https://t
+<p align="center">https://telegra.ph/file/e270ca38db21a863a70db.jpg
+  <isrc="htt[ps://telegra.ph/file/390d078bddeb22f38c69b.jpg">](https://t
 </p>
 
 ## ✨ المميزات
